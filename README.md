@@ -5,7 +5,7 @@
 - taper les commandes suivantes pour lancer le code : spark-submit Word_Count.py
 
 
-![Resultat_Word_Count](Image.png)
+![Resultat_Word_Count](Image_Read_me/Image.png)
 
 
 
